@@ -1,5 +1,7 @@
-OSCAR THOYA - DATA SPECIALIST PORTFOLIO
-About me
+**OSCAR THOYA - DATA SPECIALIST PORTFOLIO**
+
+**About me**
+
 Hi, I am Oscar Thoya, a dedicated Data and Analytics professional with over 4 years of experience in data collection, big data analysis, and data visualization. My journey began with a solid foundation in statistics, and over the years, I've honed my skills in designing mobile-based data collection surveys, managing large datasets, and creating impactful visualizations.
 
 My passion lies in crafting data-driven solutions that empower organizations across various sectors, including healthcare, education, social impact, and more. I excel in transforming raw data into actionable insights through intuitive and user-friendly BI dashboards and reports, using tools like Power BI, Looker, and Tableau.
