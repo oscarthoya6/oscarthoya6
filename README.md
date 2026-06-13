@@ -1,13 +1,84 @@
-**OSCAR THOYA - DATA SPECIALIST PORTFOLIO**
+**OSCAR THOYA - Data Manager | Data Engineer | Analytics & Machine Learning Professional**
 
 **About me**
+# OSCAR THOYA | Data Manager | Data Engineer | Analytics & Machine Learning Professional
 
-Hi, I am Oscar Thoya, a dedicated Data and Analytics professional with over 4 years of experience in data collection, big data analysis, and data visualization. My journey began with a solid foundation in statistics, and over the years, I've honed my skills in designing mobile-based data collection surveys, managing large datasets, and creating impactful visualizations.
+## About Me
 
-My passion lies in crafting data-driven solutions that empower organizations across various sectors, including healthcare, education, social impact, and more. I excel in transforming raw data into actionable insights through intuitive and user-friendly BI dashboards and reports, using tools like Power BI, Looker, and Tableau.
+Hi, I'm Oscar Thoya, a Data Manager and Data Science professional with over six years of experience building data-driven solutions across the development, education, research, forestry, and social impact sectors.
 
-I am deeply committed to making data accessible and understandable to everyone, regardless of their technical background. Whether it's designing efficient data collection systems with tools like Kobo Collect and Survey CTO or leveraging Python and R for complex data analysis, I strive to ensure that data becomes a powerful asset for informed decision-making.
+My expertise spans the entire data lifecycle, from data collection and engineering to advanced analytics, machine learning, visualization, and decision support. I specialize in designing scalable data ecosystems that transform raw data into actionable intelligence for strategic planning, operational efficiency, monitoring and evaluation, and research.
 
-In my career, I’ve led projects where I've not only handled the intricacies of data collection and processing but also delivered end-to-end solutions that make data exploration and decision-making an intuitive experience for stakeholders.
+Currently, I lead data management and analytics initiatives at Kidogo Early Years, where I develop cloud-based data architectures, automate ETL pipelines, build business intelligence solutions, and apply machine learning techniques to generate predictive insights from large-scale datasets.
 
-Whether working independently or as part of a team, I am driven by the challenge of uncovering insights and using data to solve complex problems. My goal is always to enable others to feel confident in their data, turning information into actionable strategies that drive success.
+### Areas of Expertise
+
+* Data Engineering & ETL Automation
+* Cloud Data Platforms (Google BigQuery, Microsoft Fabric, AWS)
+* Data Analytics & Business Intelligence
+* Machine Learning & Predictive Modeling
+* Statistical Analysis & Research
+* Data Governance & Quality Assurance
+* Monitoring, Evaluation & Learning (MEL) Analytics
+* Database Design & Management
+* Dashboard Development & Data Visualization
+
+### Technical Stack
+
+**Programming & Analytics**
+
+* Python
+* SQL
+* R
+* DAX
+
+**Data Engineering & Cloud**
+
+* Google Cloud platform
+* Microsoft Fabric
+* Azure Data Services
+
+**Visualization & Reporting**
+
+* Power BI
+* Tableau
+* Looker Studio
+* Advanced Excel
+
+**Data Collection & Research**
+
+* KoboToolbox
+* SurveyCTO
+* REDCap
+* ODK
+
+**Databases**
+
+* PostgreSQL
+* MySQL
+* SQL Server
+* MongoDB
+
+### What I Build
+
+* Automated ETL and ELT pipelines
+* Data warehouses and cloud-based analytics platforms
+* Interactive dashboards and executive reporting systems
+* Machine learning and predictive analytics solutions
+* Research and evaluation analytics frameworks
+* Data quality monitoring systems
+* KPI tracking and performance management solutions
+
+### My Mission
+
+I believe data should do more than generate reports. It should drive decisions, improve operations, create measurable impact, and unlock opportunities for innovation. My goal is to build intelligent, scalable, and accessible data solutions that help organizations move from data collection to data-driven action.
+
+### Current Interests
+
+* Machine Learning & Applied AI
+* Data Engineering & Modern Data Stacks
+* Microsoft Fabric & Lakehouse Architecture
+* MLOps & Analytics Automation
+* Impact Measurement & Research Analytics
+* Climate, Health, Education, and Development Data Systems
+
