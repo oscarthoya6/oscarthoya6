@@ -14,7 +14,7 @@ Currently, I lead data management and analytics initiatives at Kidogo Early Year
 ### Areas of Expertise
 
 * Data Engineering & ETL Automation
-* Cloud Data Platforms (Google BigQuery, Microsoft Fabric, AWS)
+* Cloud Data Platforms (Google BigQuery, Microsoft Fabric)
 * Data Analytics & Business Intelligence
 * Machine Learning & Predictive Modeling
 * Statistical Analysis & Research
